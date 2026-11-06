@@ -6,7 +6,7 @@
 		"compile": "bun build src/server.ts --compile --outfile dist/server --minify"
 	},
 	"dependencies": {
-		"hono": "^4.13.13",
+		"hono": "^4.13.14",
 		"react": "^19.3.1",
 		"react-dom": "^19.3.1"
 	},
